@@ -10,7 +10,7 @@
 
 //提示
 
-{"key":"豆瓣","name":"太阳视听-开心追剧","type":3,"api":"./js/lib/drpy2.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"./lib/Douban.js"},
+{"key":"豆瓣","name":"太阳视听-开心追剧","type":3,"api":"./js/lib/drpy2.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"./js/lib/Douban.js"},
 
 {"key":"drpy_js_短视频","name":"💕TVBox资源群：147632893💕","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/短视频.js"},
 
